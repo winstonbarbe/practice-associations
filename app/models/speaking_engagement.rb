@@ -1,0 +1,2 @@
+class SpeakingEngagement < ApplicationRecord
+end
